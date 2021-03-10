@@ -1,1 +1,1 @@
-# czi-git-practice-2
+# czi-practice-git
